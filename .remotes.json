@@ -2,7 +2,31 @@
   {
     "package": "deltamapr",
     "url": "https://github.com/InteragencyEcologicalProgram/deltamapr",
+    "via": ["deltareportr"],
+    "from": "deltareportr"
+  },
+  {
+    "package": "deltamapr",
+    "url": "https://github.com/InteragencyEcologicalProgram/deltamapr",
+    "via": ["deltareportr", "discretewq"],
+    "from": "deltareportr"
+  },
+  {
+    "package": "deltamapr",
+    "url": "https://github.com/InteragencyEcologicalProgram/deltamapr",
     "via": ["discretewq"],
     "from": "discretewq"
+  },
+  {
+    "package": "discretewq",
+    "url": "https://github.com/sbashevkin/discretewq",
+    "via": ["deltareportr"],
+    "from": "deltareportr"
+  },
+  {
+    "package": "zooper",
+    "url": "https://github.com/InteragencyEcologicalProgram/zooper",
+    "via": ["deltareportr"],
+    "from": "deltareportr"
   }
 ]
