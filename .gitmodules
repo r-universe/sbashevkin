@@ -1,5 +1,35 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/sbashevkin/universe
 	shallow = true
 	branch = HEAD
+[submodule "discretewq"]
+	path = discretewq
+	url = https://github.com/sbashevkin/discretewq
+	shallow = true
+	registered = true
+[submodule "LTMRdata"]
+	path = LTMRdata
+	url = https://github.com/sbashevkin/LTMRdata
+	shallow = true
+	registered = true
+[submodule "deltareportr"]
+	path = deltareportr
+	url = https://github.com/sbashevkin/deltareportr
+	shallow = true
+	registered = true
+[submodule "spacetools"]
+	path = spacetools
+	url = https://github.com/sbashevkin/spacetools
+	shallow = true
+	registered = true
+[submodule "zooper"]
+	path = zooper
+	url = https://github.com/InteragencyEcologicalProgram/zooper
+	shallow = true
+	registered = true
+[submodule "deltamapr"]
+	path = deltamapr
+	url = https://github.com/InteragencyEcologicalProgram/deltamapr
+	shallow = true
+	registered = true
