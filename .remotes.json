@@ -24,12 +24,6 @@
     "from": "deltareportr"
   },
   {
-    "package": "lwgeom",
-    "url": "https://github.com/r-spatial/lwgeom",
-    "via": ["spacetools"],
-    "from": "spacetools"
-  },
-  {
     "package": "zooper",
     "url": "https://github.com/InteragencyEcologicalProgram/zooper",
     "via": ["deltareportr"],
