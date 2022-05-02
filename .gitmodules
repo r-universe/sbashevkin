@@ -33,3 +33,8 @@
 	url = https://github.com/InteragencyEcologicalProgram/deltamapr
 	shallow = true
 	registered = true
+[submodule "deltafish"]
+	path = deltafish
+	url = https://github.com/delta-stewardship-council/deltafish
+	shallow = true
+	registered = false
