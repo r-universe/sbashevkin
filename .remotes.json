@@ -1,11 +1,5 @@
 [
   {
-    "package": "EDIutils",
-    "url": "https://github.com/ropensci/EDIutils",
-    "via": ["LTMRdata", "deltafish"],
-    "from": "LTMRdata"
-  },
-  {
     "package": "deltafish",
     "url": "https://github.com/delta-stewardship-council/deltafish",
     "via": ["LTMRdata"],
