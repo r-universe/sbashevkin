@@ -2,24 +2,24 @@
 	path = .registry
 	url = https://github.com/sbashevkin/universe
 	branch = HEAD
-[submodule "discretewq"]
-	path = discretewq
-	url = https://github.com/sbashevkin/discretewq
 [submodule "LTMRdata"]
 	path = LTMRdata
 	url = https://github.com/sbashevkin/LTMRdata
+[submodule "deltafish"]
+	path = deltafish
+	url = https://github.com/delta-stewardship-council/deltafish
+[submodule "deltamapr"]
+	path = deltamapr
+	url = https://github.com/InteragencyEcologicalProgram/deltamapr
 [submodule "deltareportr"]
 	path = deltareportr
 	url = https://github.com/sbashevkin/deltareportr
+[submodule "discretewq"]
+	path = discretewq
+	url = https://github.com/sbashevkin/discretewq
 [submodule "spacetools"]
 	path = spacetools
 	url = https://github.com/sbashevkin/spacetools
 [submodule "zooper"]
 	path = zooper
 	url = https://github.com/InteragencyEcologicalProgram/zooper
-[submodule "deltamapr"]
-	path = deltamapr
-	url = https://github.com/InteragencyEcologicalProgram/deltamapr
-[submodule "deltafish"]
-	path = deltafish
-	url = https://github.com/delta-stewardship-council/deltafish
