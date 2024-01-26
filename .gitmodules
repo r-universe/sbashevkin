@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/sbashevkin/universe
+	url = https://github.com/sbashevkin/sbashevkin.r-universe.dev
 	branch = HEAD
 [submodule "LTMRdata"]
 	path = LTMRdata
